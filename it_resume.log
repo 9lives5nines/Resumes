@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.15)  12 NOV 2015 14:50
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.15)  13 NOV 2015 17:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -949,14 +949,14 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 41.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 41.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 93.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 94.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 93.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 94.
  (./it_resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 93.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 94.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 94.
 Package rerunfilecheck Info: File `it_resume.out' has not changed.
 (rerunfilecheck)             Checksum: AA069565E8C6EEF5A28069E48C5D3F7B;491.
  ) 
@@ -974,7 +974,7 @@ hare/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/publi
 c/lm/lmss8.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share
 /texmf/fonts/type1/public/lm/lmsso10.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/marvosym/marvosym.pfb>
-Output written on it_resume.pdf (1 page, 133261 bytes).
+Output written on it_resume.pdf (1 page, 133348 bytes).
 PDF statistics:
  63 PDF objects out of 1000 (max. 8388607)
  52 compressed objects within 1 object stream
