@@ -1,0 +1,63 @@
+Diana Arrieta
+
+1155 Bodega Dr.
+Sunnyvale, CA 94086
+T 1-562-294-3399
+E darrieta.agent@gmail.com
+
+Employment History
+
+08/2013–09/2015
+Corporate Operations Engineer and Internal Technology Resident, Google, Inc.,
+Mountain View, CA & London, UK.
+Focusing on internal onsite support and primarily acting as a liaison between technical and non-technical groups, operations engineers seek to enhance Google’s infrastructure and internal services. By developing skills in computer networking, software development, site reliability
+engineering and system administration, engineers are encouraged in making internal support infrastructure modular, efficient, and useful.
+
+Projects:
+*Automated the booking of video conference rooms for a troubleshooting session when a support request is created for one, reducing the workload by 75%.
+*Triaged desktop issues for a 6000 employee shuffle.
+*Made a custom configuration for specialized hardware for use in accessibility.
+*Documented the process of disabling and removing deskphones from conference rooms.
+*Finding and flagging support requests that have a cold handoff.
+*Mentor new residents in common break and fix scenarios for Linux machines.
+
+Security Operations Engineer, Client Platform Hardening:
+*Filtered audit logs using SQL to find use cases of root privileges on the corporate fleet.
+*Found the most common use cases of root privileges which included package installation, configuration, and use of specialized software which required administrative rights to use.
+*Triage security requests for root privileges, whitelisting software binaries, whitelisting websites, and creating certificates for mobile development.
+
+Building Automation and Security Engineer:
+*Maintaining and troubleshooting issues with over 300 guest registration kiosks
+*Managing user roles and badging using TDS Guest software
+*Managing badge access of over 90,000 employees via the use of C-Cure 9000
+*Provisioning hardware for security infrastructure such as iStar and DVTel servers
+*Troubleshooting network access for security infrastructure
+
+06/2009–03/2013
+Student Assistant - Tier 2, I&IT Support, Pomona, CA.
+Technical support for faculty and staff around campus ranging from installation, updating and troubleshooting software and hardware, imaging and managing computers from various departments, and ensuring destruction of sensitive data from surveyed computers. Writing small scripts to automate the installation of software or for running repetitive tasks.
+
+Technical Details
+Languages
+Google Apps Script, BASH, CSS, Java, JavaScript, LATEX, Python, SQL
+
+Experience
+Information Technology (8 years), Windows Administration (6 years), Mac OSX Administration (3 years), Linux Administration (2 years), Android Support (2 years)
+
+Software
+Git, VMWare Fusion, Cauliflower Vest, Bazel, Perforce, C-Cure 9000
+
+Education
+2009–2013
+2005–2009
+
+MS, Computer Science, California State Polytechnic University, Pomona, CA.
+BS, Computer Science, California State Polytechnic University, Pomona, CA.
+
+Related Coursework
+
+Undergraduate
+Computer Networks, Database Systems, Object Oriented Design & Programming, Operating Systems, Secure Communication, Symbolic Programming, Unix and Scripting, Web Design and Programming
+
+Graduate
+Advanced Algorithm Design & Analysis, Advanced Software Engineering, Computer Image Processing, Cyber Security, Multimedia Systems, Natural Language Processing
